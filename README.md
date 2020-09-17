@@ -12,6 +12,7 @@
 ###### However, I am always learning new languages and tools to further my expertise.
 
 ##### Check out my portfolio: [<img align="left" alt="samardis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<br />
   
 ###### I would love to connect and work on projects with anyone, so feel free to get in touch!
 
@@ -21,11 +22,15 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+
 ###### I am open to internships and work opportunities.
 
 ###### Best,
 
 ###### Sam A :rocket:
+
+<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ardissam0&hide=stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
