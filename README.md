@@ -1,6 +1,7 @@
-### Hi, I'm Sam 👋:computer:
+## Hi, I'm Sam 👋:computer:
 
-## I am a Full Stack Web Developer from Michigan
+#### I am a Full Stack Web Developer from Michigan
+<img src=""
 
 <!--
 **ardissam0/ardissam0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
