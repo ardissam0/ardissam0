@@ -23,6 +23,6 @@
 
 ###### Sam A :rocket:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ardissam0)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ardissam0&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
