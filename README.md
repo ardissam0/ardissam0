@@ -1,7 +1,7 @@
 ## Hi, I'm Sam 👋:computer:
-
-#### I am a Full Stack Web Developer from Michigan
 ![](img/astroprofimg.png)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
