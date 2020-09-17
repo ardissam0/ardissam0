@@ -1,6 +1,6 @@
 ## Hi, I'm Sam 👋:computer:
 ![](img/astroprofimg.png)
-# I am a Full Stack Web Developer that is passionate about creating applications and websites that are accessible, efficient, and user-friendly.
+##### I am a Full Stack Web Developer that is passionate about creating applications and websites that are accessible, efficient, and user-friendly.
 
 ##### My stack is...
 ###### Frontend: HTML, CSS, Sass, JavaScript, and React
