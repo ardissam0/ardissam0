@@ -1,5 +1,7 @@
-## Hi, I'm Sam 👋:computer:
 ![](img/astroprofimg.png)
+
+## Hi, I'm Sam 👋:computer:
+
 ##### I am a Full Stack Web Developer that is passionate about creating applications and websites that are accessible, efficient, and user-friendly.
 
 ##### My stack is...
@@ -20,5 +22,7 @@
 ###### Best,
 
 ###### Sam A :rocket:
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ardissam0)](https://github.com/anuraghazra/github-readme-stats)
 
 
