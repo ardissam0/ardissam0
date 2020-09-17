@@ -9,8 +9,8 @@
 
 ###### However, I am always learning new languages and tools to further my expertise.
 
-**Check out my portfolio in the featured section and some project in my accomplishments section below**
-
+**Check out my portfolio: <a href= "https://samardis.com/">
+  
 ###### I would love to connect and work on projects with anyone, so feel free to get in touch!
 
 ###### Contact me through LinkedIn if you have any questions or just want to say hi.
