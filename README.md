@@ -5,7 +5,7 @@
 #### I am a Full Stack Web Developer that is passionate about creating applications and websites that are accessible, efficient, and user-friendly.
 
 ##### My stack is...
-###### Frontend: HTML, CSS, Sass, JavaScript, and React
+###### Frontend: HTML, CSS/SASS, JavaScript, and React
 ###### Backend: Node.js, Express, SQL, RESTful API's, and Python.
 ###### However, I am always learning new languages and tools to further my expertise.
 
