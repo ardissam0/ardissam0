@@ -27,12 +27,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ardissam0&hide=stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-###### I am open to internships and work opportunities.
-
-###### Best,
-
-###### Sam A :rocket:
-
 
 [website]: https://samardis.com/
 [twitter]: https://twitter.com/samuel_ardis
