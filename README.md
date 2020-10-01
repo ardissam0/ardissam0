@@ -12,8 +12,10 @@
 ---
 #### Check out my portfolio:
 [<img align="left" alt="samardis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 ---
-**I would love to connect and work on projects, so feel free to get in touch!**
+#### I would love to connect and work on projects, so feel free to get in touch :smiley:
+
 ---
 #### Conect with me: 
 
