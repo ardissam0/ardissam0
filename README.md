@@ -19,7 +19,6 @@
 ---
 #### I would love to connect and work on projects, so feel free to get in touch :smiley:
 
----
 #### Conect with me: 
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
