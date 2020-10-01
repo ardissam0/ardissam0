@@ -4,10 +4,11 @@
 
 #### I am a Full Stack Web Developer that is passionate about creating applications and websites that are accessible, efficient, and user-friendly.
 
-> I am proficient in the following: 
+> **I am proficient in the following:** 
 - `Frontend: HTML, CSS/SASS, JavaScript, and React.js`
 - `Backend: Node.js, Jest, Express, SQL, RESTful API's, and Python`
-> **However, I am always learning new languages and tools to further my expertise.**
+
+**However, I am always learning new languages and tools to further my expertise.**
 ---
 #### Check out my portfolio:
 [<img align="left" alt="samardis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
