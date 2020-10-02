@@ -1,6 +1,6 @@
 ![](img/astroprofimg.png)
 
-### Hi, I'm Sam 👋:computer:
+### Hi, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### I am a Full Stack Web Developer that is passionate about creating applications and websites that are accessible, efficient, and user-friendly.
 
