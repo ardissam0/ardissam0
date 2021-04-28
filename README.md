@@ -2,13 +2,10 @@
 
 ### Hi, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I am a Full Stack Web Developer that is passionate about creating applications and websites that are accessible, efficient, and user-friendly.
+#### I am a Front-End Web Developer that is passionate about creating applications and websites that are accessible, efficient, and user-friendly.
 
 > **I am proficient in the following:** 
-- `Frontend: HTML, CSS/SASS, JavaScript, and React.js`
-- `Backend: Node.js, Jest, Express, SQL, RESTful API's, and Python`
-
-#### However, I am always learning new languages and tools to further my expertise.
+- `HTML, CSS/SASS, JavaScript, and React.js`
 
 ---
 #### Check out my portfolio:
