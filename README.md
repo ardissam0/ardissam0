@@ -1,4 +1,4 @@
-[URL=https://covers.alphacoders.com/cover/view/52559][IMG]https://coverfiles.alphacoders.com/525/52559.jpg[/IMG][/URL]
+![](https://covers.alphacoders.com/cover/view/52559"><img src="https://coverfiles.alphacoders.com/525/52559.jpg)
 
 ### Hi, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
