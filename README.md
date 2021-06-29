@@ -1,5 +1,3 @@
-![](https://coverfiles.alphacoders.com/525/52559.jpg)
-
 ### Hi, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### I am a Front-End Web Developer that is passionate about creating applications and websites that are accessible, efficient, and user-friendly.
