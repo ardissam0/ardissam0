@@ -1,9 +1,9 @@
-### Hi, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, my name is Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I am a Front-End Web Developer that is passionate about creating applications and websites that are accessible, efficient, and user-friendly.
+#### I am an Associate Business Process Improvement Specialist, Specializing in RPA (Robotic Process Automation) Development.
 
 > **I am proficient in the following:** 
-- `HTML, CSS/SASS, JavaScript, and React.js`
+- `RPA, Python, C++, HTML5, CSS3/SASS, JavaScript, and React.js`
 
 ---
 #### Check out my portfolio:
