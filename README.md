@@ -1,9 +1,9 @@
 ### Hi, my name is Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I am an Associate Business Process Improvement Specialist, Specializing in RPA (Robotic Process Automation) Development.
+#### I am an Application Development Analyst, Specializing in RPA (Robotic Process Automation) Development and Alteryx (Analytics Automation).
 
 > **I am proficient in the following:** 
-- `RPA, Python, C++, HTML5, CSS3/SASS, JavaScript, and React.js`
+- `RPA, Alteryx, Python, HTML5, CSS3/SASS, JavaScript, and React`
 
 ---
 #### Check out my portfolio:
